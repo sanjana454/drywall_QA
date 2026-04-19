@@ -1,0 +1,20 @@
+# datasets
+cracks/
+drywall/
+dataset/
+
+# generated bulk outputs
+masks/
+predictions/
+
+# models
+checkpoints/
+*.pth
+*.pt
+
+# python cache
+__pycache__/
+*.pyc
+
+# system
+.env
