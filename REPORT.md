@@ -1,7 +1,6 @@
 # Prompted Segmentation for Drywall QA — Project Report
 
 **Author:** Sanjana Raghavan  
-**Random Seed:** 42 (all runs)  
 **Date:** April 2026
 
 ---
